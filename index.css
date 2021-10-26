@@ -6,8 +6,8 @@ body{
     margin: 0;
     background: #c8f7c8;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.2rem;
-
+    font-size: 1.1rem;
+    overflow:hidden;
 }
 
 h1{
@@ -88,6 +88,9 @@ button{
 
 
 @media only screen and (max-width:700px){
+    html, body{
+        height: 100%;
+    }
     .container{
         width: 80%;
         

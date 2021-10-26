@@ -6,6 +6,7 @@ body{
     margin: 0;
     background: #c8f7c8;
     font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
 
 }
 
@@ -85,3 +86,21 @@ button{
     }
   }
 
+
+@media only screen and (max-width:700px){
+    .container{
+        width: 80%;
+        
+    }
+
+    button{
+        width: 40%;
+        height: 5rem;
+    }
+    #player-1-dice, #player-2-dice{
+        width: 25%;
+        height: auto;
+    }
+
+
+}

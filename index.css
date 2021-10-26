@@ -97,11 +97,11 @@ button{
     }
 
     button{
-        width: 10rem;
+        width: 40%;
         height: 5rem;
     }
     #player-1-dice, #player-2-dice{
-        width: 7rem;
+        width: 10rem;
         height: auto;
     }
 

@@ -92,7 +92,7 @@ button{
         height: 100%;
     }
     .container{
-        width: 400px;
+        width: 285px;
     
     }
 
@@ -101,7 +101,7 @@ button{
         height: 5rem;
     }
     #player-1-dice, #player-2-dice{
-        width: 10rem;
+        width: 7rem;
         height: auto;
     }
 
